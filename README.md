@@ -77,8 +77,8 @@ flutter run
 ## 👨‍💻 Auteur
 
 **Ton Nom**
-- GitHub : [@TON_USERNAME](https://github.com/TON_USERNAME)
-- Email : tonmail@gmail.com
+- GitHub : https://github.com/nnangassejb10
+- Email : nnanggloirejb@gmail.com
 
 ---
 
